@@ -1,4 +1,4 @@
-<!-- BANANA_TREE // badBANANA collective // GnomeMan4201 -->
+<!-- BANANA_TREE // bad_BANANA collective // GnomeMan4201 -->
 
 ```
 ██████╗  █████╗ ███╗   ██╗ █████╗ ███╗   ██╗ █████╗     ████████╗██████╗ ███████╗███████╗
@@ -296,8 +296,7 @@ discovered the system you had.
 <div align="center">
 
 ```
-good defense is good offense.
-not designed. evolved.
+good defense needs know good offense.
 ```
 
 *© badBANANA collective // LANimals // gnomeman4201*
