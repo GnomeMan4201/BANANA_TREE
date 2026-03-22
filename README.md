@@ -23,10 +23,8 @@
 
 ```
 BANANA_TREE exists to teach the adversarial mindset.
-good defense is good offense.
 
-not designed. evolved.
-
+not designed....but evolved out of NECESSITY
 every tool in this ecosystem was built to close a real gap
 in a real problem at a real moment.
 laid side by side they form a complete end-to-end
