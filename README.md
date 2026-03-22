@@ -31,7 +31,7 @@ laid side by side they form a complete end-to-end
 adversarial training environment.
 
 that was not the plan.
-that is the point.
+but became part of it..
 ```
 
 ---
