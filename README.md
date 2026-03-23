@@ -127,7 +127,7 @@ role:    intelligence layer — extracts signal from unstructured data
 feeds:   entity and relationship data into analysis and adaptation
 stack:   Python · FastAPI · SQLAlchemy · Canvas API · SQLite
 ```
-[![OpenSight](https://img.shields.io/badge/→%20OpenSight-0A0A08?style=flat-square&labelColor=8B1A1A)](https://github.com/GnomeMan4201/bad_BANANA)
+[![OpenSight](https://img.shields.io/badge/→%20OpenSight-0A0A08?style=flat-square&labelColor=8B1A1A)](https://github.com/GnomeMan4201/OpenSight)
 
 ---
 
@@ -150,7 +150,7 @@ stack:   Python · FastAPI · SQLite
 ### 🌿 Lune
 > **Adversarial Simulation + Tradecraft Engine**
 
-57-module tradecraft library. LLM-powered mutation engine.
+64-module tradecraft library. LLM-powered mutation engine.
 Pre-built operation chains. Encrypted C2 (AES-128-CBC + HMAC-SHA256).
 Unified persona system. Hardened agent with encrypted beacon/report cycle.
 
