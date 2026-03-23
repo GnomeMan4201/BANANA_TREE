@@ -294,7 +294,7 @@ discovered the system you had.
 <div align="center">
 
 ```
-good offense needs good defense.
+good defense takes good offense 
 ```
 
 *© badBANANA collective // LANimals // gnomeman4201*
