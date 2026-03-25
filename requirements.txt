@@ -1,0 +1,2 @@
+# BANANA_TREE is an ecosystem index — no runtime dependencies.
+# See individual tool repos for their requirements.
